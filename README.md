@@ -7,7 +7,7 @@ To get started make sure you have the following extensions and softwares.
 
   to download the extensions do this:
 
-  pip install numpy
-  pip install matplotlib
-  pip install tensorflow
-  pip install opencv-python
+  - pip install numpy
+  - pip install matplotlib
+  - pip install tensorflow
+  - pip install opencv-python
